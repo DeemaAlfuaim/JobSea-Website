@@ -9,3 +9,11 @@ and view the status of previous job applications.
 
 • Job provider: offer jobs and view, update, or delete offered jobs, and view applications for its
 offered jobs and update their status. 
+
+Job seeker credentials:
+email : sara@gmail.com
+pass : Ss12345678
+
+Job provider credentials:
+username : Deema1
+pass : Dd123456
