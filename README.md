@@ -17,3 +17,14 @@ pass : Ss12345678
 Job provider credentials:
 username : Deema1
 pass : Dd123456
+
+
+Launching Instructions:
+
+To launch the code using Netbeans, you must do the following:
+You must download the xampp or mamp application to run the website on your localhost
+Open netbeans
+Download the folders
+Start the xampp or mamp application
+Click on the run tab of (index.php) file on netbeans
+website will start running in a few moments, just wait..
